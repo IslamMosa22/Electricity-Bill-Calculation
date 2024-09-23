@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KAITECH_Project", "KAITECH_Project\KAITECH_Project.csproj", "{A6C75BD3-2031-4F38-A97B-B18A46855FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6C75BD3-2031-4F38-A97B-B18A46855FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C75BD3-2031-4F38-A97B-B18A46855FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C75BD3-2031-4F38-A97B-B18A46855FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C75BD3-2031-4F38-A97B-B18A46855FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F77F9E17-CEAF-41F3-90D6-794BA7C8695D}
+	EndGlobalSection
+EndGlobal
